@@ -1,4 +1,39 @@
 # Climate Conference List 2025 / Europe 
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>2025 EU Climate & Energy Events</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 2rem;
+    }
+    iframe {
+      width: 100%;
+      height: 500px;
+      border: none;
+      margin: 1rem 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌍 2025 Europe Climate & Energy Events</h1>
+  <p>This site provides an interactive map and table of major climate and energy conferences happening across Europe in 2025.</p>
+
+  <h2>🗺️ Interactive Map</h2>
+  <iframe src="YOUR_ARCGIS_EMBED_LINK_HERE" allowfullscreen></iframe>
+
+  <h2>📋 Full Event List</h2>
+  <iframe src="YOUR_PUBLISHED_GOOGLE_SHEET_LINK_HERE"></iframe>
+
+  <h2>🔗 Share or Contribute</h2>
+  <p>This project is open-source. Feel free to <a href="https://github.com/yourusername/climate-events-2025" target="_blank">fork or contribute on GitHub</a>.</p>
+</body>
+</html>
 
 👋 Welcome!
 This curated and interactive resource features 50+ events across Europe in 2025, all focused on:
