@@ -33,7 +33,11 @@
   <iframe src="https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing"></iframe>
 
 
-  
+  <h2>🔗 Share or Contribute</h2>
+  <p>This project is open-source. Feel free to contribute <a href="https://paypal.me/intrusivethoughtsftw?country.x=PT&locale.x=en_US" target="_blank">Paypal Link</a>.</p>
+</body>
+</html>
+
 
 🍃 Your 2025 Guide to Europe’s Climate & Sustainability Events
 Curated • Interactive • Community-Driven
@@ -70,6 +74,8 @@ Know an important event that should be listed here?
 
 Big shoutout to Akhila Kosaraju for sparking the original idea [https://www.linkedin.com/in/akhilakosaraju](https://www.linkedin.com/in/akhilakosaraju)
 
+Suggest or Submit an Event
+Know an important event that should be listed here?
 
 🤝 Let’s Connect — I’ll be expanding this list with more events across Europe and beyond.
 Feel free to reach out or follow the journey on
@@ -77,8 +83,3 @@ Feel free to reach out or follow the journey on
 
 💚 Let’s make 2025 the year we show up, connect, and shape the future.
 #ClimateAction #GreenEvents #SustainableEurope 
-
-<h2>🔗 Share or Contribute</h2>
-  <p>This project is open-source. Feel free to contribute  <a href="https://paypal.me/intrusivethoughtsftw?country.x=PT&locale.x=en_US" target="_blank">Paypal Link</a>.</p>
-</body>
-</html>
