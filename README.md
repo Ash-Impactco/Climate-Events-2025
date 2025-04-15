@@ -74,11 +74,10 @@ Know an important event that should be listed here?
 
 Big shoutout to Akhila Kosaraju for sparking the original idea [https://www.linkedin.com/in/akhilakosaraju](https://www.linkedin.com/in/akhilakosaraju)
 
-Suggest or Submit an Event
-Know an important event that should be listed here?
 
-Connect with me on LinkedIn will be adding more events across europe and add other events in other regions 
-[https://www.linkedin.com/in/aswin-sivaprakash](https://www.linkedin.com/in/aswin-sivaprakash)
+🤝 Let’s Connect — I’ll be expanding this list with more events across Europe and beyond.
+Feel free to reach out or follow the journey on
+[https://www.linkedin.com/in/aswin-sivaprakash](https://www.linkedin.com/in/aswin-sivaprakash) Let’s build this together!
 
 💚 Let’s make 2025 the year we show up, connect, and shape the future.
 #ClimateAction #GreenEvents #SustainableEurope 
