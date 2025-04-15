@@ -51,7 +51,7 @@ This is for everyone: policy shapers, activists, researchers, city planners, cle
 👉 Use the embedded map to find events by city. Click on a pin to view event details including title, date, theme, and direct link.
 
 📍 Zoom in/out and click around Europe to discover events closest to you!
- Embed Here: /embed [[https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4](https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4)
+ Embed Here: /embed <a href=[https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4]target="_blank">Event map </a>.</p>(https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4)
 
  📋 Event Database: View & Filter
 Explore the full list in a spreadsheet format. 
@@ -71,7 +71,7 @@ Know an important event that should be listed here?
 
 🔧 Tools: Bricks, Maphub, Python & ChatGPT
 
-Big shoutout to Akhila Kosaraju for sparking the original idea [https://www.linkedin.com/in/akhilakosaraju](https://www.linkedin.com/in/akhilakosaraju)
+Big shoutout to Akhila Kosaraju for sparking the idea [https://www.linkedin.com/in/akhilakosaraju](https://www.linkedin.com/in/akhilakosaraju)
 
 Suggest or Submit an Event
 Know an important event that should be listed here?
