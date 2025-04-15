@@ -72,7 +72,7 @@ Know an important event that should be listed here?
 
 🔧 Tools: Bricks, Maphub, Python & ChatGPT
 
-Big shoutout to Akhila Kosaraju for sparking the original idea[[https://www.linkedin.com/in/akhilakosaraju](https://www.linkedin.com/in/akhilakosaraju)
+Big shoutout to Akhila Kosaraju for sparking the original idea[https://www.linkedin.com/in/akhilakosaraju](https://www.linkedin.com/in/akhilakosaraju)
 Suggest or Submit an Event
 Know an important event that should be listed here?
 
