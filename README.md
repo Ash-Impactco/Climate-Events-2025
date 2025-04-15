@@ -28,17 +28,18 @@ Embed Here: /embed [https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3G
 Suggest or Submit an Event
 Know an important event that should be listed here?
 
-DM me on LinkedIn to collaborate!
-/embed [https://www.linkedin.com/in/aswin-sivaprakash]
 
 This project was created using:
 
-Google Sheets for live data entry & management
+1.Google Sheets for live data entry & management
 
-ArcGIS Online for spatial visualization 
+2.ArcGIS Online for spatial visualization 
 
-Notion to host and share everything interactively
+3.Notion to host and share everything interactively
 
-Tools :Bricks, Maphub, Python & Chatgpt
+4.Tools :Bricks, Maphub, Python & Chatgpt
 
 Also shout out to Akhila Kosaraju for coming up with the idea initialy for US market /embed[https://www.linkedin.com/in/akhilakosaraju]
+
+Connect with me on LinkedIn will be adding more events across europe and add other events in other regions 
+/embed [https://www.linkedin.com/in/aswin-sivaprakash]
