@@ -61,7 +61,7 @@ Whether you're a professional, policymaker, academic, or activist — use this p
 
  📋 Event Database: View & Filter
 Explore the full list in a spreadsheet format. 
-Embed Here: /embed [[https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing)]
+Embed Here:[https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing)]
 
 Suggest or Submit an Event
 Know an important event that should be listed here?
@@ -80,4 +80,4 @@ This project was created using:
 Also shout out to Akhila Kosaraju for coming up with the idea initialy for US market /embed[[https://www.linkedin.com/in/akhilakosaraju](https://www.linkedin.com/in/akhilakosaraju)
 
 Connect with me on LinkedIn will be adding more events across europe and add other events in other regions 
-/embed [[https://www.linkedin.com/in/aswin-sivaprakash](https://www.linkedin.com/in/aswin-sivaprakash)
+[https://www.linkedin.com/in/aswin-sivaprakash](https://www.linkedin.com/in/aswin-sivaprakash)
