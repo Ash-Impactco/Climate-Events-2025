@@ -1,4 +1,48 @@
 # Climate Conference List 2025 / Europe 
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>2025 EU Climate & Energy Events</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 2rem;
+    }
+    iframe {
+      width: 100%;
+      height: 500px;
+      border: none;
+      margin: 1rem 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌍 2025 Europe Climate & Energy Events</h1>
+  <p>This site provides an interactive map and table of major climate and energy conferences happening across Europe in 2025.</p>
+
+  <h2>🗺️ Interactive Map</h2>
+<<<<<<< HEAD
+  <iframe src="https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4" allowfullscreen></iframe>
+=======
+  <iframe src="[https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4]
+" allowfullscreen></iframe>
+>>>>>>> 5594a43b918f86186918c65d7e0d24f9dc2b7a94
+
+  <h2>📋 Full Event List</h2>
+<<<<<<< HEAD
+  <iframe src="https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing"></iframe>
+=======
+  <iframe src="https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing)"></iframe>
+>>>>>>> 5594a43b918f86186918c65d7e0d24f9dc2b7a94
+
+  <h2>🔗 Share or Contribute</h2>
+  <p>This project is open-source. Feel free to <a href="https://github.com/yourusername/climate-events-2025" target="_blank">fork or contribute on GitHub</a>.</p>
+</body>
+</html>
 
 👋 Welcome!
 This curated and interactive resource features 50+ events across Europe in 2025, all focused on:
@@ -23,7 +67,7 @@ Whether you're a professional, policymaker, academic, or activist — use this p
 
  📋 Event Database: View & Filter
 Explore the full list in a spreadsheet format. 
-Embed Here: /embed [https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing]
+Embed Here: /embed [[https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing)]
 
 Suggest or Submit an Event
 Know an important event that should be listed here?
