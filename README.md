@@ -58,7 +58,7 @@ Whether you're a professional, policymaker, academic, or activist — use this p
 👉 Use the embedded map to find events by city. Click on a pin to view event details including title, date, theme, and direct link.
 
 📍 Zoom in/out and click around Europe to discover events closest to you!
- Embed Here: /embed [https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4]
+ Embed Here: /embed [[https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4](https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4)
 
  📋 Event Database: View & Filter
 Explore the full list in a spreadsheet format. 
