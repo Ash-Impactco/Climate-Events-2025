@@ -25,10 +25,11 @@ index.html
   <p>This site provides an interactive map and table of major climate and energy conferences happening across Europe in 2025.</p>
 
   <h2>🗺️ Interactive Map</h2>
-  <iframe src="YOUR_ARCGIS_EMBED_LINK_HERE" allowfullscreen></iframe>
+  <iframe src="[https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4]
+" allowfullscreen></iframe>
 
   <h2>📋 Full Event List</h2>
-  <iframe src="YOUR_PUBLISHED_GOOGLE_SHEET_LINK_HERE"></iframe>
+  <iframe src="[https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing)]"></iframe>
 
   <h2>🔗 Share or Contribute</h2>
   <p>This project is open-source. Feel free to <a href="https://github.com/yourusername/climate-events-2025" target="_blank">fork or contribute on GitHub</a>.</p>
@@ -58,7 +59,7 @@ Whether you're a professional, policymaker, academic, or activist — use this p
 
  📋 Event Database: View & Filter
 Explore the full list in a spreadsheet format. 
-Embed Here: /embed [https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing]
+Embed Here: /embed [[https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing)]
 
 Suggest or Submit an Event
 Know an important event that should be listed here?
