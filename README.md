@@ -1,4 +1,4 @@
-# Climate Conference List 2025 / Europe 
+
 index.html
 <!DOCTYPE html>
 <html lang="en">
@@ -25,26 +25,21 @@ index.html
   <p>This site provides an interactive map and table of major climate and energy conferences happening across Europe in 2025.</p>
 
   <h2>🗺️ Interactive Map</h2>
-<<<<<<< HEAD
+
   <iframe src="https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4" allowfullscreen></iframe>
-=======
-  <iframe src="[https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4]
-" allowfullscreen></iframe>
->>>>>>> 5594a43b918f86186918c65d7e0d24f9dc2b7a94
+
 
   <h2>📋 Full Event List</h2>
-<<<<<<< HEAD
+
   <iframe src="https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing"></iframe>
-=======
-  <iframe src="https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing)"></iframe>
->>>>>>> 5594a43b918f86186918c65d7e0d24f9dc2b7a94
+
 
   <h2>🔗 Share or Contribute</h2>
-  <p>This project is open-source. Feel free to <a href="https://github.com/yourusername/climate-events-2025" target="_blank">fork or contribute on GitHub</a>.</p>
+  <p>This project is open-source. Feel free to <a href="https://ash-impactco.github.io/Carbon-Analytics/" target="_blank">connect on Linkedin</a>.</p>
 </body>
 </html>
 
-👋 Welcome!
+
 This curated and interactive resource features 50+ events across Europe in 2025, all focused on:
 
 🌱 Climate Adaptation & Sustainability
@@ -63,7 +58,7 @@ Whether you're a professional, policymaker, academic, or activist — use this p
 👉 Use the embedded map to find events by city. Click on a pin to view event details including title, date, theme, and direct link.
 
 📍 Zoom in/out and click around Europe to discover events closest to you!
- Embed Here: /embed [https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4]
+ Embed Here: /embed [[https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4](https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4)
 
  📋 Event Database: View & Filter
 Explore the full list in a spreadsheet format. 
