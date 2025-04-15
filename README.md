@@ -78,7 +78,7 @@ This project was created using:
 
 4.Tools :Bricks, Maphub, Python & Chatgpt
 
-Also shout out to Akhila Kosaraju for coming up with the idea initialy for US market /embed[https://www.linkedin.com/in/akhilakosaraju]
+Also shout out to Akhila Kosaraju for coming up with the idea initialy for US market /embed[[https://www.linkedin.com/in/akhilakosaraju](https://www.linkedin.com/in/akhilakosaraju)
 
 Connect with me on LinkedIn will be adding more events across europe and add other events in other regions 
-/embed [https://www.linkedin.com/in/aswin-sivaprakash]
+/embed [[https://www.linkedin.com/in/aswin-sivaprakash](https://www.linkedin.com/in/aswin-sivaprakash)
