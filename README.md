@@ -33,11 +33,7 @@
   <iframe src="https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing"></iframe>
 
 
-  <h2>🔗 Share or Contribute</h2>
-  <p>This project is open-source. Feel free to contribute <a href="https://paypal.me/intrusivethoughtsftw?country.x=PT&locale.x=en_US" target="_blank">Paypal Link</a>.</p>
-</body>
-</html>
-
+  
 
 🍃 Your 2025 Guide to Europe’s Climate & Sustainability Events
 Curated • Interactive • Community-Driven
@@ -81,3 +77,8 @@ Feel free to reach out or follow the journey on
 
 💚 Let’s make 2025 the year we show up, connect, and shape the future.
 #ClimateAction #GreenEvents #SustainableEurope 
+
+<h2>🔗 Share or Contribute</h2>
+  <p>This project is open-source. Feel free to contribute  <a href="https://paypal.me/intrusivethoughtsftw?country.x=PT&locale.x=en_US" target="_blank">Paypal Link</a>.</p>
+</body>
+</html>
