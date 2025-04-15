@@ -35,7 +35,7 @@ index.html
 
 
   <h2>🔗 Share or Contribute</h2>
-  <p>This project is open-source. Feel free to <a href="https://ash-impactco.github.io/Carbon-Analytics/" target="_blank">connect on Linkedin</a>.</p>
+  <p>This project is open-source. Feel free to contribute <a href="https://paypal.me/intrusivethoughtsftw?country.x=PT&locale.x=en_US" target="_blank">Paypal Link</a>.</p>
 </body>
 </html>
 
