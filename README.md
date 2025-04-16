@@ -52,6 +52,7 @@ This is for everyone: policy shapers, activists, researchers, city planners, cle
 👉 Use the embedded map to find events by city. Click on a pin to view event details including title, date, theme, and direct link.
 
 📍 Zoom in/out and click around Europe to discover events closest to you!
+
  Embed Here: /embed [[https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4](https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4)
 
  📋 Event Database: View & Filter
@@ -71,10 +72,8 @@ Embed Here: /embed [[https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3
 
 🔧 Tools: Bricks, Maphub, Python & ChatGPT
 
-Big shoutout to Akhila Kosaraju for sparking the  idea [https://www.linkedin.com/in/akhilakosaraju](https://www.linkedin.com/in/akhilakosaraju)
+Big shoutout to Akhila Kosaraju for sparking the idea [https://www.linkedin.com/in/akhilakosaraju](https://www.linkedin.com/in/akhilakosaraju)
 
-Suggest or Submit an Event
-Know an important event that should be listed here?
 
 🤝 Let’s Connect — I’ll be expanding this list with more events across Europe and beyond.
 Feel free to reach out or follow the journey on
