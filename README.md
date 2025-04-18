@@ -34,15 +34,6 @@ Curated • Interactive • Community-Driven</p>
   <iframe src="https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4" allowfullscreen></iframe>
 
 
- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Event List</title>
-</head>
-<body>
-
 <h2>📋 Full Event List</h2>
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQNjyyhV3MiJd9w5kXmi01UBt8vQjEXhf5MI7jytMb8eVJwNYK9eqOgVs8vWfD2g0I/embedded?gid=0" width="100%" height="600" frameborder="0" allowfullscreen></iframe>
