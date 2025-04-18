@@ -34,7 +34,7 @@
 
   <h2>📋 Full Event List</h2>
   <!-- Embed Google Spreadsheet in view-only mode -->
-  <iframe src="[https://docs.google.com/spreadsheets/d/e/2PACX-1vQNjyyhV3MiJd9w5kXmi01UBt8vQjEXhf5MI7jytMb8eVJwNYK9eqOgVs8vWfD2g0I/embedded?gid=0" width="100%" height="600" frameborder="0" allowfullscreen](https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing)></iframe>
+  <iframe src="[https://docs.google.com/spreadsheets/d/e/2PACX-1vQNjyyhV3MiJd9w5kXmi01UBt8vQjEXhf5MI7jytMb8eVJwNYK9eqOgVs8vWfD2g0I/embedded?gid=0" width="100%" height="600" frameborder="0" allowfullscreen]></iframe>
 
 </body>
 </html>
