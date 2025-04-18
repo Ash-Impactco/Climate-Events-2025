@@ -21,7 +21,14 @@
 <body>
   <h1>🌍 2025 Europe Climate & Energy Events</h1>
   <p>This site provides an interactive map and table of major climate and energy conferences happening across Europe in 2025.</p>
+<p>🍃 Your 2025 Guide to Europe’s Climate & Sustainability Events
+Curated • Interactive • Community-Driven
 
+🌍 Over 50+ handpicked events across Europe — all centered around shaping a more sustainable, equitable, and climate-resilient future.
+
+This is for everyone: policy shapers, activists, researchers, city planners, clean tech founders, or just curious minds wanting to plug into the movement.
+
+</p>
   <h2>🗺️ Interactive Map</h2>
 
   <iframe src="https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4" allowfullscreen></iframe>
@@ -33,14 +40,6 @@
 
 </body>
 </html>
-
-
-🍃 Your 2025 Guide to Europe’s Climate & Sustainability Events
-Curated • Interactive • Community-Driven
-
-🌍 Over 50+ handpicked events across Europe — all centered around shaping a more sustainable, equitable, and climate-resilient future.
-
-This is for everyone: policy shapers, activists, researchers, city planners, clean tech founders, or just curious minds wanting to plug into the movement.
 
 
 
