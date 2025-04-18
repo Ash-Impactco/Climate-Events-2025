@@ -22,13 +22,13 @@
   <h1>🌍 2025 Europe Climate & Energy Events</h1>
   <p>This site provides an interactive map and table of major climate and energy conferences happening across Europe in 2025.</p>
 <p>🍃 Your 2025 Guide to Europe’s Climate & Sustainability Events
-Curated • Interactive • Community-Driven
+Curated • Interactive • Community-Driven</p>
 
-🌍 Over 50+ handpicked events across Europe — all centered around shaping a more sustainable, equitable, and climate-resilient future.
+<p>🌍 Over 50+ handpicked events across Europe — all centered around shaping a more sustainable, equitable, and climate-resilient future.</p>
 
-This is for everyone: policy shapers, activists, researchers, city planners, clean tech founders, or just curious minds wanting to plug into the movement.
+<p>This is for everyone: policy shapers, activists, researchers, city planners, clean tech founders, or just curious minds wanting to plug into the movement.</p>
 
-</p>
+
   <h2>🗺️ Interactive Map</h2>
 
   <iframe src="https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4" allowfullscreen></iframe>
@@ -76,10 +76,8 @@ This is for everyone: policy shapers, activists, researchers, city planners, cle
   <p>
     This project was initiated by 
     <a href="https://www.linkedin.com/in/akhilakosaraju" target="_blank" style="color: #2a7f62; text-decoration: none;">Akhila Kosaraju</a> for the U.S. market, and reimagined for Europe events. 
-
-
-<p>
-  <h3>🤝 Let’s Connect</h3> 
+ <p>
+🤝 Let’s Connect
   I’ll be expanding this list with more events across Europe and beyond.
   Follow along or reach out via  
   <a href="https://www.linkedin.com/in/aswin-sivaprakash" target="_blank" style="color: #2a7f62; text-decoration: none;">
