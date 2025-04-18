@@ -84,9 +84,6 @@ Curated • Interactive • Community-Driven</p>
     Aswin Sivaprakash
   </a>. Let’s build this together!
 </p>
- <p>
-    💚 This project is open-source. Share it widely or fork it to create your own regional version. Feel free to contribute <a href="https://paypal.me/intrusivethoughtsftw?country.x=PT&locale.x=en_US" target="_blank">Paypal Link</a>
-  </p>
 
 💚 Let’s make 2025 the year we show up, connect, and shape the future.
 #ClimateAction #GreenEvents #SustainableEurope 
