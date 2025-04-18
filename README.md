@@ -125,7 +125,7 @@ This is for everyone: policy shapers, activists, researchers, city planners, cle
   <a href="https://www.linkedin.com/in/akhilakosaraju" target="_blank" style="color: #2a7f62; text-decoration: none;">
     Akhila Kosaraju
   </a> 
-  for sparking the original idea — what began as a U.S. event map turned into this European climate tracker!
+  for sparking the original idea from her US list !
 </p>
 
 <p>
