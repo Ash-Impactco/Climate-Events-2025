@@ -77,23 +77,6 @@ This is for everyone: policy shapers, activists, researchers, city planners, cle
     This project was initiated by 
     <a href="https://www.linkedin.com/in/akhilakosaraju" target="_blank" style="color: #2a7f62; text-decoration: none;">Akhila Kosaraju</a> for the U.S. market, and reimagined for Europe events. 
 
-  <p>
-    💚 This project is open-source. Share it widely or fork it to create your own regional version. Feel free to contribute <a href="https://paypal.me/intrusivethoughtsftw?country.x=PT&locale.x=en_US" target="_blank">Paypal Link</a>
-  </p>
-
-
-
-<p>
-🛠️ Built With:
-
-🟢 Google Sheets (live data entry + updates)
-
-🗺️ ArcGIS Online (for the spatial magic)
-
-📓 Notion (to bring it all together)
-
-🔧 Tools: Bricks, Maphub, Python & ChatGPT
-</p>
 
 <p>
   <h3>🤝 Let’s Connect</h3> 
@@ -103,6 +86,9 @@ This is for everyone: policy shapers, activists, researchers, city planners, cle
     Aswin Sivaprakash
   </a>. Let’s build this together!
 </p>
+ <p>
+    💚 This project is open-source. Share it widely or fork it to create your own regional version. Feel free to contribute <a href="https://paypal.me/intrusivethoughtsftw?country.x=PT&locale.x=en_US" target="_blank">Paypal Link</a>
+  </p>
 
 💚 Let’s make 2025 the year we show up, connect, and shape the future.
 #ClimateAction #GreenEvents #SustainableEurope 
