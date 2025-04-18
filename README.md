@@ -96,7 +96,8 @@ This is for everyone: policy shapers, activists, researchers, city planners, cle
 </p>
 
 <p>
-  🤝 Let’s Connect — I’ll be expanding this list with more events across Europe and beyond.
+  <h3>🤝 Let’s Connect</h3> 
+  I’ll be expanding this list with more events across Europe and beyond.
   Follow along or reach out via  
   <a href="https://www.linkedin.com/in/aswin-sivaprakash" target="_blank" style="color: #2a7f62; text-decoration: none;">
     Aswin Sivaprakash
