@@ -31,15 +31,15 @@
 
   <h2>🗺️ Interactive Map</h2>
   <iframe src="https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4" allowfullscreen></iframe>
-
+  Explore Events by Location - Use the embedded map to find events by city. Click on a pin to view event details including title, date, theme, and direct link.
+  <p>
   <h2>📋 Full Event List</h2>
   <iframe src="https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing"></iframe>
- 
+ </p>
  </body>
  </html>
-  <p>
-🗺️ Interactive Map: Explore Events by Location </p>
-👉 Use the embedded map to find events by city. Click on a pin to view event details including title, date, theme, and direct link.
+  
+
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #1e1e1e;">
 
