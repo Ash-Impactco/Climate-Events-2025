@@ -70,14 +70,10 @@
 <h3> 🛠️ Built With
    <p>
 
-
 ArcGIS Online – for mapping event locations
-
-Python, Bricks, Maphub & ChatGPT – to automate, visualize, and refine
-
-Notion – as an early ideation space
-
-GitHub Pages – for free and open publishing
+Bricks, Python, Maphub & ChatGPT – to automate, build, and refine
+Collab in Notion – where early ideas took shape
+Deployed via GitHub Pages – for open, free publishing
 
  </p>
 
