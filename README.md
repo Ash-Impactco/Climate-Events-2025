@@ -70,8 +70,8 @@
 
   <h3>🤝 Credits & Collaboration</h3>
   <p>
-    This project was initiated by 
-    <a href="https://www.linkedin.com/in/akhilakosaraju" target="_blank" style="color: #2a7f62; text-decoration: none;">Akhila Kosaraju</a> for the U.S. market, and reimagined for Europe events. 
+    This project was originally initiated by Akhila Kosaraju, whose work on climate events across the U.S. served as the spark and foundation for this version focused on Europe.
+    <a href="https://www.linkedin.com/in/akhilakosaraju" target="_blank" style="color: #2a7f62; text-decoration: none;">Akhila Kosaraju</a> do check her work.
  <p>
 🤝 Let’s Connect
   I’ll be expanding this list with more events across Europe and beyond.
@@ -80,13 +80,8 @@
     Aswin Sivaprakash
   </a>. Let’s build this together!
 </p>
-
+ <p>
 💚 Let’s make 2025 the year we show up, connect, and shape the future.
 #ClimateAction #GreenEvents #SustainableEurope
-
-    <p>💚 Let’s make 2025 the year we show up, connect, and shape the future.</p>
-    <p>#ClimateAction #GreenEvents #SustainableEurope</p>
-  </div>
-
-</body>
-</html>
+</p>
+  
