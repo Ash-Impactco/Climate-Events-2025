@@ -1,4 +1,5 @@
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -21,22 +22,19 @@
 <body>
   <h1>🌍 2025 Europe Climate & Energy Events</h1>
   <p>This site provides an interactive map and table of major climate and energy conferences happening across Europe in 2025.</p>
-<p>🍃 Your 2025 Guide to Europe’s Climate & Sustainability Events
-Curated • Interactive • Community-Driven</p>
+  <p>🍃 Your 2025 Guide to Europe’s Climate & Sustainability Events<br>
+  Curated • Interactive • Community-Driven</p>
 
-<p>🌍 Over 50+ handpicked events across Europe — all centered around shaping a more sustainable, equitable, and climate-resilient future.</p>
+  <p>🌍 Over 50+ handpicked events across Europe — all centered around shaping a more sustainable, equitable, and climate-resilient future.</p>
 
-<p>This is for everyone: policy shapers, activists, researchers, city planners, clean tech founders, or just curious minds wanting to plug into the movement.</p>
-
+  <p>This is for everyone: policy shapers, activists, researchers, city planners, clean tech founders, or just curious minds wanting to plug into the movement.</p>
 
   <h2>🗺️ Interactive Map</h2>
-
   <iframe src="https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4" allowfullscreen></iframe>
 
-
-<h2>📋 Full Event List</h2>
-
-<iframe src="https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing" width="100%" height="600" frameborder="0" allowfullscreen></iframe>
+  <h2>📋 Full Event List</h2>
+  <!-- Embed Google Spreadsheet in view-only mode -->
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQNjyyhV3MiJd9w5kXmi01UBt8vQjEXhf5MI7jytMb8eVJwNYK9eqOgVs8vWfD2g0I/embedded?gid=0" width="100%" height="600" frameborder="0" allowfullscreen></iframe>
 
 </body>
 </html>
