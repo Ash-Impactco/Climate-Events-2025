@@ -50,15 +50,62 @@ This is for everyone: policy shapers, activists, researchers, city planners, cle
 🗺️ Interactive Map: Explore Events by Location
 👉 Use the embedded map to find events by city. Click on a pin to view event details including title, date, theme, and direct link.
 
-📍 Zoom in/out and click around Europe to discover events closest to you!
+<div style="font-family: Arial, sans-serif; line-height: 1.6; color: #1e1e1e;">
 
- Embed Here: /embed [[https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4](https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4)
+  <h2>🌍 Discover Climate & Sustainability Events Across Europe (2025)</h2>
+  <p>
+    Dive into 50+ curated events across Europe, spanning sustainability, clean energy, climate adaptation, urban planning, green tech, and more.
+  </p>
 
- 📋 Event Database: View & Filter
-Explore the full list in a spreadsheet format. 
-Embed Here: /embed [[https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing)]
+  <h3>📍 Explore Events by Location</h3>
+  <p>
+    Zoom in/out and click around Europe to discover events closest to you!
+  </p>
+  <p>
+    <a href="https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4" target="_blank" style="color: #2a7f62; text-decoration: none; font-weight: bold;">
+      🌐 Launch Interactive Map
+    </a>
+  </p>
 
+  <h3>📋 View & Filter All Events</h3>
+  <p>
+    Explore the complete list in a spreadsheet format. Filter by theme, country, and more.
+  </p>
+  <p>
+    <a href="https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing" target="_blank" style="color: #2a7f62; text-decoration: none; font-weight: bold;">
+      🧾 Open Event Database (Google Sheet)
+    </a>
+  </p>
 
+  <h3>💡 Suggest or Submit an Event</h3>
+  <p>
+    Know a key event we're missing? Reach out and let's expand the map.
+  </p>
+  <p>
+    🔗 Connect with the creator on 
+    <a href="https://www.linkedin.com/in/aswin-sivaprakash" target="_blank" style="color: #2a7f62; text-decoration: none; font-weight: bold;">
+      LinkedIn
+    </a>
+  </p>
+
+  <h3>🤝 Credits & Collaboration</h3>
+  <p>
+    This project was initiated by 
+    <a href="https://www.linkedin.com/in/akhilakosaraju" target="_blank" style="color: #2a7f62; text-decoration: none;">Akhila Kosaraju</a> for the U.S. market, and reimagined for Europe by the community. 
+    It was built using:
+  </p>
+  <ul>
+    <li>🟢 Google Sheets – for live data collection</li>
+    <li>🗺️ ArcGIS Online – for spatial visualization</li>
+    <li>🧱 GitHub Pages – to host and share the project</li>
+    <li>🤖 Tools: Python, Bricks, MapHub, and ChatGPT</li>
+  </ul>
+
+  <p>
+    💚 This project is open-source. Share it widely or fork it to create your own regional version.
+  </p>
+
+</div>
 
 
 🛠️ Built With:
@@ -71,12 +118,23 @@ Embed Here: /embed [[https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3
 
 🔧 Tools: Bricks, Maphub, Python & ChatGPT
 
-Big shoutout to Akhila Kosaraju for sparking the idea [https://www.linkedin.com/in/akhilakosaraju](https://www.linkedin.com/in/akhilakosaraju)
+<h3>🌍 Community & Credits</h3>
 
+<p>
+  Big shoutout to 
+  <a href="https://www.linkedin.com/in/akhilakosaraju" target="_blank" style="color: #2a7f62; text-decoration: none;">
+    Akhila Kosaraju
+  </a> 
+  for sparking the original idea — what began as a U.S. event map turned into this European climate tracker!
+</p>
 
-🤝 Let’s Connect — I’ll be expanding this list with more events across Europe and beyond.
-Feel free to reach out or follow the journey on
-[https://www.linkedin.com/in/aswin-sivaprakash](https://www.linkedin.com/in/aswin-sivaprakash) Let’s build this together!
+<p>
+  🤝 Let’s Connect — I’ll be expanding this list with more events across Europe and beyond.
+  Follow along or reach out via  
+  <a href="https://www.linkedin.com/in/aswin-sivaprakash" target="_blank" style="color: #2a7f62; text-decoration: none;">
+    Aswin Sivaprakash
+  </a>. Let’s build this together!
+</p>
 
 💚 Let’s make 2025 the year we show up, connect, and shape the future.
 #ClimateAction #GreenEvents #SustainableEurope 
