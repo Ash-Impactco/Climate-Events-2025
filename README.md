@@ -67,13 +67,13 @@
 
     
   </p>
-<h3> 🛠️ Built With
+<h3> 🛠️ Built With</h3>
    <p>
 
-ArcGIS Online – for mapping event locations
-Bricks, Python, Maphub & ChatGPT – to automate, build, and refine
-Collab in Notion – where early ideas took shape
-Deployed via GitHub Pages – for open, free publishing
+ArcGIS Online – for mapping event locations<br>
+Bricks, Python, Maphub & ChatGPT – to automate, build, and refine<br>
+Collab in Notion – where early ideas took shape<br>
+Deployed via GitHub Pages – for open, free publishing<br>
 
  </p>
 
