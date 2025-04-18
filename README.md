@@ -22,7 +22,7 @@
 <body>
   <h1>🌍 2025 Europe Climate & Energy Events</h1>
   <p>This site provides an interactive map and table of major climate and energy conferences happening across Europe in 2025.</p>
-  <p>🍃 Your 2025 Guide to Europe’s Climate & Sustainability Events<br> </p>
+
  <p> Curated • Interactive • Community-Driven</p>
 
   <p>🌍 Over 50+ handpicked events across Europe — all centered around shaping a more sustainable, equitable, and climate-resilient future.</p>
@@ -64,14 +64,28 @@
     <a href="https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing" target="_blank" style="color: #2a7f62; text-decoration: none; font-weight: bold;">
       🧾 Open Event Database (Google Sheet)
     </a>
+
     
   </p>
+<h3> 🛠️ Built With
+   <p>
+
+
+ArcGIS Online – for mapping event locations
+
+Python, Bricks, Maphub & ChatGPT – to automate, visualize, and refine
+
+Notion – as an early ideation space
+
+GitHub Pages – for free and open publishing
+
+ </p>
 
   <h3>🤝 Credits & Collaboration</h3>
   <p>
     This project was originally initiated by Akhila Kosaraju, whose work on climate events across the U.S. served as the spark and foundation for this version focused on Europe.
     <a href="https://www.linkedin.com/in/akhilakosaraju" target="_blank" style="color: #2a7f62; text-decoration: none;">Akhila Kosaraju</a> do check her work.
- <p>
+ </p>
 🤝 Let’s Connect
   I’ll be expanding this list with more events across Europe and beyond.
   Follow along or reach out via  
