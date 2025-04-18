@@ -31,9 +31,6 @@
 
   <iframe src="https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing"></iframe>
 
-
-  <h2>🔗 Share or Contribute</h2>
-  <p>This project is open-source. Feel free to contribute <a href="https://paypal.me/intrusivethoughtsftw?country.x=PT&locale.x=en_US" target="_blank">Paypal Link</a>.</p>
 </body>
 </html>
 
@@ -68,19 +65,11 @@ This is for everyone: policy shapers, activists, researchers, city planners, cle
   </p>
 
   <h3>📋 View & Filter All Events</h3>
-  <p>
-    Explore the complete list in a spreadsheet format. Filter by theme, country, and more.
-  </p>
+
   <p>
     <a href="https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing" target="_blank" style="color: #2a7f62; text-decoration: none; font-weight: bold;">
       🧾 Open Event Database (Google Sheet)
     </a>
-  </p>
-
-  <h3>💡 Suggest or Submit an Event</h3>
-  <p>
-    Know a key event we're missing? Reach out and let's expand the map.
-  </p>
   <p>
     🔗 Connect with the creator on 
     <a href="https://www.linkedin.com/in/aswin-sivaprakash" target="_blank" style="color: #2a7f62; text-decoration: none; font-weight: bold;">
@@ -91,18 +80,10 @@ This is for everyone: policy shapers, activists, researchers, city planners, cle
   <h3>🤝 Credits & Collaboration</h3>
   <p>
     This project was initiated by 
-    <a href="https://www.linkedin.com/in/akhilakosaraju" target="_blank" style="color: #2a7f62; text-decoration: none;">Akhila Kosaraju</a> for the U.S. market, and reimagined for Europe by the community. 
-    It was built using:
-  </p>
-  <ul>
-    <li>🟢 Google Sheets – for live data collection</li>
-    <li>🗺️ ArcGIS Online – for spatial visualization</li>
-    <li>🧱 GitHub Pages – to host and share the project</li>
-    <li>🤖 Tools: Python, Bricks, MapHub, and ChatGPT</li>
-  </ul>
+    <a href="https://www.linkedin.com/in/akhilakosaraju" target="_blank" style="color: #2a7f62; text-decoration: none;">Akhila Kosaraju</a> for the U.S. market, and reimagined for Europe events. 
 
   <p>
-    💚 This project is open-source. Share it widely or fork it to create your own regional version.
+    💚 This project is open-source. Share it widely or fork it to create your own regional version. Feel free to contribute <a href="https://paypal.me/intrusivethoughtsftw?country.x=PT&locale.x=en_US" target="_blank">Paypal Link</a>
   </p>
 
 </div>
@@ -117,16 +98,6 @@ This is for everyone: policy shapers, activists, researchers, city planners, cle
 📓 Notion (to bring it all together)
 
 🔧 Tools: Bricks, Maphub, Python & ChatGPT
-
-<h3>🌍 Community & Credits</h3>
-
-<p>
-  Big shoutout to 
-  <a href="https://www.linkedin.com/in/akhilakosaraju" target="_blank" style="color: #2a7f62; text-decoration: none;">
-    Akhila Kosaraju
-  </a> 
-  for sparking the original idea from her US list !
-</p>
 
 <p>
   🤝 Let’s Connect — I’ll be expanding this list with more events across Europe and beyond.
