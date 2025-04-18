@@ -32,9 +32,12 @@
   <h2>🗺️ Interactive Map</h2>
   <iframe src="https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4" allowfullscreen></iframe>
 
-  <h2>📋 Full Event List</h2>
-  <!-- Embed Google Spreadsheet in view-only mode -->
-  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQJvioRdqHZ7ZgO2R-96n-t4PZnNNkzxHBE46ZVwQ_BfnaiZDPd8fS0rsFeG4D0sdiZM_YheWwAuZpQ/pubhtml"></iframe>
+   <h2>📋 Full Event List</h2>
+ 
+   <iframe src="https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing"></iframe>
+ 
+ </body>
+ </html>
   
 🗺️ Interactive Map: Explore Events by Location
 👉 Use the embedded map to find events by city. Click on a pin to view event details including title, date, theme, and direct link.
