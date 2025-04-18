@@ -37,8 +37,8 @@
  
  </body>
  </html>
-  
-🗺️ Interactive Map: Explore Events by Location
+  <p>
+🗺️ Interactive Map: Explore Events by Location </p>
 👉 Use the embedded map to find events by city. Click on a pin to view event details including title, date, theme, and direct link.
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #1e1e1e;">
