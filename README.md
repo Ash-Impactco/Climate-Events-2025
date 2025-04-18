@@ -88,9 +88,8 @@ Deployed via GitHub Pages – for open, free publishing<br>
   <a href="https://www.linkedin.com/in/aswin-sivaprakash" target="_blank" style="color: #2a7f62; text-decoration: none;">
     Aswin Sivaprakash
   </a>. Let’s build this together!
+<p>💚 Let’s make 2025 the year we show up, connect, and shape the future.</p>
 
- <p>
-💚 Let’s make 2025 the year we show up, connect, and shape the future.</p>
 <p>#ClimateAction #GreenEvents #SustainableEurope</p>
 
   
