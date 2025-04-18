@@ -70,11 +70,7 @@ This is for everyone: policy shapers, activists, researchers, city planners, cle
     <a href="https://docs.google.com/spreadsheets/d/17fWc03ryHaLykMorvR3GQPqmebPgxOd_ZNFMmp5R-JY/edit?usp=sharing" target="_blank" style="color: #2a7f62; text-decoration: none; font-weight: bold;">
       🧾 Open Event Database (Google Sheet)
     </a>
-  <p>
-    🔗 Connect with the creator on 
-    <a href="https://www.linkedin.com/in/aswin-sivaprakash" target="_blank" style="color: #2a7f62; text-decoration: none; font-weight: bold;">
-      LinkedIn
-    </a>
+    
   </p>
 
   <h3>🤝 Credits & Collaboration</h3>
@@ -86,9 +82,9 @@ This is for everyone: policy shapers, activists, researchers, city planners, cle
     💚 This project is open-source. Share it widely or fork it to create your own regional version. Feel free to contribute <a href="https://paypal.me/intrusivethoughtsftw?country.x=PT&locale.x=en_US" target="_blank">Paypal Link</a>
   </p>
 
-</div>
 
 
+<p>
 🛠️ Built With:
 
 🟢 Google Sheets (live data entry + updates)
@@ -98,6 +94,7 @@ This is for everyone: policy shapers, activists, researchers, city planners, cle
 📓 Notion (to bring it all together)
 
 🔧 Tools: Bricks, Maphub, Python & ChatGPT
+</p>
 
 <p>
   🤝 Let’s Connect — I’ll be expanding this list with more events across Europe and beyond.
