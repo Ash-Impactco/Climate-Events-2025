@@ -13,7 +13,7 @@
     }
     iframe {
       width: 100%;
-      height: 500px;
+      height: 600px;
       border: none;
       margin: 1rem 0;
     }
@@ -34,10 +34,11 @@
 
   <h2>📋 Full Event List</h2>
   <!-- Embed Google Spreadsheet in view-only mode -->
-  <iframe src="[https://docs.google.com/spreadsheets/d/e/2PACX-1vQNjyyhV3MiJd9w5kXmi01UBt8vQjEXhf5MI7jytMb8eVJwNYK9eqOgVs8vWfD2g0I/embedded?gid=0" width="100%" height="600" frameborder="0" allowfullscreen]></iframe>
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQNjyyhV3MiJd9w5kXmi01UBt8vQjEXhf5MI7jytMb8eVJwNYK9eqOgVs8vWfD2g0I/embedded?gid=0" width="100%" height="600" frameborder="0" allowfullscreen></iframe>
 
 </body>
 </html>
+
 
 
 
