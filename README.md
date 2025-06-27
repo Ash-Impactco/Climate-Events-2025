@@ -6,16 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 <body>
-  <h1>2025 Europe Climate & Energy Events</h1>
-  <p>This site provides an interactive map and table of major climate and energy conferences happening across Europe in 2025.</p>
+  <p>This site provides an interactive map and table of major climate and energy conferences happening across the world in 2025.</p>
 
  <p> Curated • Interactive • Community-Driven</p>
 
-  <p> Over 50+ handpicked events across Europe — all centered around shaping a more sustainable, equitable, and climate-resilient future.</p>
-
-  <p>This is for everyone: policy shapers, activists, researchers, city planners, clean tech founders, or just curious minds wanting to plug into the movement.</p>
-
- </p>
  </body>
  </html>
   
@@ -23,10 +17,6 @@
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #1e1e1e;">
 
-  <h2> Discover Climate & Sustainability Events Across Europe (2025)</h2>
-  <p>
-    Dive into 50+ curated events across Europe, spanning sustainability, clean energy, climate adaptation, urban planning, green tech, and more.
-  </p>
 
   <h3>📍 Explore Events by Location</h3>
   <p>
