@@ -33,7 +33,7 @@
     Zoom in/out and click around Europe to discover events closest to you!
   </p>
   <p>
-    <a href="https://www.arcgis.com/apps/mapviewer/index.html?webmap=013b15c1c5bd482292bd0c7d921867a4" target="_blank" style="color: #2a7f62; text-decoration: none; font-weight: bold;">
+    <a href="https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/scl/fi/wuvfkigtipdleyw3b7mkx/keplergl_4xzbv7.json?rlkey=a2df2hy5i8ms2qdf7z3ddg84p&dl=0" target="_blank" style="color: #2a7f62; text-decoration: none; font-weight: bold;">
        Launch Interactive Map
     </a>
   </p>
