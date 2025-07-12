@@ -18,7 +18,7 @@
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #1e1e1e;">
 
 
-  <h3>📍 Explore Events by Location</h3>
+  <h3> Explore Events by Location</h3>
   <p>
     Zoom in/out and click around Europe to discover events closest to you!
   </p>
